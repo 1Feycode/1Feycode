@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Feyisa 👋
 
-<!--
-**1Feycode/1Feycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Network Engineer** 📘 Studying for CCNA
 
-Here are some ideas to get you started:
+I'm learning how networks really work, one lab at a time, and documenting the journey here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently
+- Studying for the **Cisco CCNA (200-301)**
+- Practicing in Cisco Packet Tracer, GNS3 and EVE-NG
+- Learning Python basics for network automation
+
+## 📚 CCNA topics I'm working through
+- IP addressing and subnetting (IPv4/IPv6)
+- VLANs, trunking, STP
+- Static routing and OSPF
+- ACLs, NAT, DHCP
+- Basic network security and wireless concepts
+- Intro to automation and programmability
+
+## 📂 What you'll find here
+- Lab configs and topologies
+- Subnetting practice and cheat sheets
+- Simple Python scripts for network tasks (as I learn)
+
+## 🗺️ Roadmap
+- [ ] Pass CCNA
+- [ ] Build a home lab
+- [ ] Automate configs with Python/Netmiko
+- [ ] Move on to CCNP or a Linux/automation track
+
+## 📫 Connect
+[LinkedIn](#) · [Email](#)
+
+> "It's always DNS." (Until it's MTU.)
