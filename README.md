@@ -29,6 +29,6 @@ I'm learning how networks really work, one lab at a time, and documenting the jo
 - [ ] Move on to CCNP or a Linux/automation track
 
 ## 📫 Connect
-[LinkedIn](#) · [Email](#)
+[www.linkedin.com/in/feyisa-girma](#)
 
 > "It's always DNS." (Until it's MTU.)
