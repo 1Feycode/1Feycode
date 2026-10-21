@@ -30,5 +30,3 @@ I'm learning how networks really work, one lab at a time, and documenting the jo
 
 ## 📫 Connect
 [www.linkedin.com/in/feyisa-girma](#)
-
-> "It's always DNS." (Until it's MTU.)
